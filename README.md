@@ -1,4 +1,4 @@
 # workflow
-simple and minimal workflow engine
+workflow engine components
 
-workflow-engine: fork from https://github.com/Beh01der/EasyFlow
+workflow-engine-simple: fork from https://github.com/Beh01der/EasyFlow - does not support fork/joins
